@@ -15,11 +15,11 @@ function Info() {
         <div className="text">
           Welcome to
           {' '}
-          {Config.appName || 'Clover'}
+          {Config.appName || 'Krishna'}
           !
           <br />
           <br />
-          {Config.appName || 'Clover'}
+          {Config.appName || 'Krishna'}
           {' '}
           is a messaging app that enables real-time messaging, audio and video calls,
           groups and conferencing.

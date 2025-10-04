@@ -1,7 +1,7 @@
 require('colors');
 
 console.log(`${'Honeyside'.yellow} © ${'2019'.yellow}`);
-console.log(`Welcome to ${'Clover'.cyan}`);
+console.log(`Welcome to ${'Krishna'.cyan}`);
 
 const mongoose = require('mongoose');
 const Room = require('./src/models/Room');

@@ -265,7 +265,7 @@ function Login() {
                 <br />
               </span>
               <br />
-              Special thanks to all of the people who believed that Clover was possible and who made it possible.
+              Special thanks to all of the people who believed that Krishna was possible and who made it possible.
               <br />
               <br />
               This Login / Register page uses

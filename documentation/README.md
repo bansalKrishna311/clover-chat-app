@@ -1,6 +1,6 @@
-# Clover Documentation
+# Krishna Documentation
 
-The Clover documentation is available online at https://www.honeyside.it/tag/clover/
+The Krishna documentation is available online at https://www.honeyside.it/tag/Krishna/
 
 On the above page, you will find:
 * Versioned application documentation

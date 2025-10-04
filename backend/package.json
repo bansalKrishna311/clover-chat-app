@@ -1,5 +1,5 @@
 {
-  "name": "clover",
+  "name": "Krishna",
   "version": "2.9.1",
   "description": "WebRTC conferencing platform.",
   "main": "index.js",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Honeyside/Clover.git"
+    "url": "git+https://github.com/Honeyside/Krishna.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/Honeyside/Clover/issues"
+    "url": "https://github.com/Honeyside/Krishna/issues"
   },
-  "homepage": "https://github.com/Honeyside/Clover#readme",
+  "homepage": "https://github.com/Honeyside/Krishna#readme",
   "dependencies": {
     "argon2": "0.31.2",
     "bluebird": "3.7.2",

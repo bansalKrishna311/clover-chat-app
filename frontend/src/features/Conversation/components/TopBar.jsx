@@ -32,7 +32,7 @@ function TopBar({ back, loading }) {
 
   const honeyside = () => window.open('https://www.honeyside.it', '_blank');
   const codeCanyon = () => window.open(
-    'https://codecanyon.net/item/clover-realtime-messaging-audio-video-conferencing-web-app-nodejs-react-webrtc-socketio/25737452',
+    'https://codecanyon.net/item/Krishna-realtime-messaging-audio-video-conferencing-web-app-nodejs-react-webrtc-socketio/25737452',
     '_blank',
   );
 

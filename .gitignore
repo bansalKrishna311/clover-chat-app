@@ -1,0 +1,62 @@
+# .gitignore for Clover project
+# Ignore Node modules
+node_modules/
+**/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+logs/
+
+# Runtime files
+pids/
+*.pid
+*.pid.lock
+
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Distribution / build  output
+dist/
+build/
+out/
+public/build/
+coverage/
+.cache/
+.parcel-cache/
+.vite/
+.next/
+.svelte-kit/
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.temp
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+*.tgz
+*.gz
+coverage/
+
+# Windows: OneDrive/Office lock files
+~$*.*
+
+# Keep package-lock.json and yarn.lock in repo by default (do not ignore)
+
+# End of .gitignore

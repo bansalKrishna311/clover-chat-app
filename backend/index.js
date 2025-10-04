@@ -1,7 +1,7 @@
 require('colors');
 
 console.log(`${'Honeyside'.yellow} © ${'2022'.yellow}`);
-console.log(`Welcome to ${'Clover'.cyan}`);
+console.log(`Welcome to ${'Krishna'.cyan}`);
 
 const express = require('express');
 const app = express();
